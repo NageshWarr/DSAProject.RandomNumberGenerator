@@ -1,0 +1,30 @@
+body {
+    font: 20px Georgia, serif;
+    text-align: center;
+  }
+  
+  h1 {
+    font: bold 20px system-ui, Helvetica, Sans-Serif;
+  }
+  
+  input[type="number"] {
+    padding: 10px;
+    color: rgb(58, 51, 51);
+    font: bold 20px system-ui, Helvetica, Sans-Serif;
+    width: 60px;
+    margin: 10px 0;
+  }
+  #randomnumber {
+    padding-top: 25px;
+    font-family:'serif';
+    font-size: 70px;
+  }
+  h1{
+    display: block;
+    background-color:rgb(26, 26, 253);
+    color: rgb(223, 255, 255);
+    padding: 20px;
+  }
+  fieldset{
+    margin-left: 750px;
+  }
